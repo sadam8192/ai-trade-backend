@@ -1,5 +1,6 @@
-Flask
+fastapi
 uvicorn
-yfinance
 pandas
 numpy
+yfinance
+gunicorn
